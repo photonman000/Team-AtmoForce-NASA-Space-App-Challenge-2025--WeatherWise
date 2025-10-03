@@ -58,7 +58,6 @@ Run the development server:
 bash
 
 npm run dev
-Open your browser: Navigate to http://localhost:3000 to view the app.
 
 Original Design
 The original design for the WeatherWise dashboard can be found at Figma Design. This link contains all design assets and layouts for reference.
